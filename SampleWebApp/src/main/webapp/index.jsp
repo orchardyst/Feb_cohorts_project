@@ -6,7 +6,7 @@
     <h1>Hello from RealCloud & Devops Expert Again </h1>
     <!--Form declaration. Must have an action attribute -->
         <form action="C:/JonnyJava/FirstJava.html/profile.html" method="post">
-            <p>Let us learn something about your web music lifestyle by Ezekiel </p> <!--This control is for mutplie line comment-->
+            <p>Tolu would like to show his new style of Music just so people can learn new things </p> <!--This control is for mutplie line comment-->
             <textarea name="comments" cols="30" rows="5"></textarea>
 
             <p>select your favourite genre of music <br /> <!--Radion control. only one selection possible-->
