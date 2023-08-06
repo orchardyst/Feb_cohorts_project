@@ -3,7 +3,7 @@ o<html>
     <title>This one na Tolu do am</title>
   </head>
   <body bgcolor="#00FF00">
-    <h1>Hello Adeola Tomori, how are you? Your jamb questions too plenty...kilagbe, kileju </h1>
+    <h1>Hello Rhoda Tomori, how are you? Your jamb questions too plenty...kilagbe, kileju </h1>
     <!--Form declaration. Must have an action attribute -->
         <form action="C:/JonnyJava/FirstJava.html/profile.html" method="post">
             <p>Tolu would like to show his new style of Music just so people can learn new things </p> <!--This control is for mutplie line comment-->
